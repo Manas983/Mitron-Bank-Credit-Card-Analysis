@@ -2,7 +2,7 @@
 
 An analysis project conducted to provide actionable recommendations for the launch of a new line of credit cards by Mitron Bank.
 
-## Live Dashboard : [Link to interactive dashboard](#Link-to-interactive-dashboard)
+## Live Dashboard : https://lnkd.in/gNRRdfyC
 
 ## Table of Contents
 
